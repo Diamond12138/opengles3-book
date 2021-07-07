@@ -25,7 +25,7 @@ We would like to thank the following people for their contributions to the sourc
 * Jarkko Vatjus-Anttila for contributing the original Linux/X11 port for the OpenGL ES 2.0 Programming Guide
 * Eduardo Pelegri-Llopart and Darryl Gough for contributing the Blackberry Native SDK port for the OpenGL ES 2.0 Programming Guide (we have not yet ported the ES 3.0 book to a Blackberry platform)
 
-####
+##Important##
 When using, just import "esutil.hpp"
 
 A class: ESEvent is added, and two new callback functions: onAppCmd and onInputEvent are added in ESContext, and two new members: app (type is android_ App *) and userDataArray (type is void * *)
